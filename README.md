@@ -1,2 +1,2 @@
-# x
-find x
+this is an exercise for improve mathematic abilities
+
